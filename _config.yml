@@ -10,11 +10,11 @@ address: East Lansing, Michigan
 email: thummal7@msu.edu
 linkedin_username: suchit-thummalapally
 github_username: Suchitthummal
-instagram_username: instagram
+#instagram_username: instagram
 #twitter_username: twitter
 #facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+#youtube_username: youtube
+#blog_url: https://suchitthummal.github.io/
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
