@@ -2,21 +2,20 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: AAA Life Insurance Company
+    role: Information Technology Intern
     description:
       - Led development of a new chatbot software utilizing large language model
       - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+    date: May. 2024 - Present
+  - title: ThermoAnalytics, Inc
+    role: Software Development Intern
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Worked in the Dev-Ops team to research and develop REST APIs in Java using XML to improve the efficiency of a portfolio management tool, called TargetProcess, used by executives to track project objectives and progress.
+      - Researched, created, and presented comprehensive reports on various technical topics, including API development, to advise a team of developers and improve efficiency during implementation.
+    date: Aug. 2021 - Feb. 2022
+  - title: Teaching Assistant
+    role: Algorithmic Thinking and Programming
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Instructed two weekly lab sessions with 30+ students, created course content and lesson plans, hosted office hours/help rooms, and attended professional development workshops to improve as an instructor.
+    date: Jan. 2024 - Present
