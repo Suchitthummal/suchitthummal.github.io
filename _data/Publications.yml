@@ -4,11 +4,11 @@ icon: "/assets/img/calendar.webp"
 contents:
   - title: Artificial Intelligence Club
     ref: 
-      - Learned and worked with various cutting-edge A.I. and machine-learning models through meetings and workshops
-      - Worked with deep learning face model in Dlib to take an image with a face and output an array of 128 floating-point numbers and compare these to other arrays to develop a facial recognition model.
+      - "Learned and worked with various cutting-edge A.I. and machine-learning models through meetings and workshops"
+      - "Worked with deep learning face model in Dlib to take an image with a face and output an array of 128 floating-point numbers and compare these to other arrays to develop a facial recognition model."
 
   - title: Spectrum Consulting Group - Business Analyst
     ref:
-      - Developed cost-effective action plans for clients by analyzing current market prices, competitor trends, and financial metrics to provide implementation strategies
-      - Evaluated the target market and industry, utilizing precise KPI tracking tools via Microsoft Excel, to construct feasible frameworks and strengthen quantitative and qualitative performance
-      -Presented clients with comprehensive reports and deliverables based on precise analyses and performance metrics
+      - "Developed cost-effective action plans for clients by analyzing current market prices, competitor trends, and financial metrics to provide implementation strategies"
+      - "Evaluated the target market and industry, utilizing precise KPI tracking tools via Microsoft Excel, to construct feasible frameworks and strengthen quantitative and qualitative performance"
+      - "Presented clients with comprehensive reports and deliverables based on precise analyses and performance metrics"
