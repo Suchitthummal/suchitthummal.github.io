@@ -2,14 +2,13 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Michigan State University, Bachelor of Science in Computer Science
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
+      - Data Structures and Algorithms, Discrete Structures in Computer Science, Calculus III, Introduction to Programming II
+      - Artificial Intelligence Club, Spectrum Consulting Group, MSU DECA, PGN
+    date: Sep. 2022 - May. 2026
   - title: Novi High School
     description:
       - AP Computer Science, AP Calculus, AP Biology, AP U.S History, IB Physics, IB Business 
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
+      - Varsity Tennis, Varsity Debate, French Club President, DECA, HOSA
+    date: Sep. 2018 - Jun. 2022
