@@ -2,12 +2,12 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Michigan State Collegiate DECA
+    description: Won First place in the Business Ethics case competition at the Michigan Collegiate DECA State Conference
+    date: Feb. 2023
+  - title: Michigan State Collegiate DECA
+    description: Won Third place in the Business Ethics case competition at the Collegiate DECA International Conference.
+    date: Apr. 2023
+  - title: NHacks (Hackathon)
+    description: Won Best Finance-Related Build
+    date: May. 2021
