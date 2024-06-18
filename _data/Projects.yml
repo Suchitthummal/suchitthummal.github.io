@@ -6,7 +6,7 @@ contents:
     description: 
       - Created an A.I. model that allowed users to enter their symptoms or medical conditions and our program would give them a diagnosis and treatment options. 
       - Developed using Python and integrated with Chainlit A.I. model.
-    icon: "/assets/img/clipboard-list.svg"
+
   - title: "Loan Calculator ([Check Out Our Project](https://github.com/Suchitthummal/Loan-Calculator))"
     description: 
       - Created a loan calculator that calculates monthly EMIs, payable interest, and total loan amount. Using this data, it displays a chart showing the total interest compared to the principal loan amount. 
